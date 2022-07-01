@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>BookListView/bookList.qml</file>
+        <file>BookListView/BookCovers/Bulgakov_dog_heart.jpg</file>
+        <file>BookListView/BookCovers/Chehov_rassrazi.jpg</file>
+        <file>BookListView/BookCovers/Lermontov_geroi_nashego_vremeni.jpeg</file>
+        <file>BookListView/BookCovers/Pushkin_Onegin.jpg</file>
+        <file>BookListView/BookCovers/Tolstoj_war_and_peace.jpg</file>
+        <file>BookListView/BookCovers/Turgenev_mumu.jpg</file>
+        <file>LoginForm/LogoPic/logo.png</file>
+        <file>BookListView/BookListModel.qml</file>
+        <file>LoginForm/LoginListModel.qml</file>
+        <file>LoginForm/LoginForm.qml</file>
+        <file>LoginForm/RegistrationForm.qml</file>
+        <file>LoginForm/PswRecoverForm.qml</file>
+        <file>LoginForm/WelcomeForm.qml</file>
+        <file>LoginForm/MainWindow.qml</file>
+        <file>LoginForm/LogoPic/logout.png</file>
+    </qresource>
+</RCC>
